@@ -24,7 +24,7 @@ const homeTown =
 //console.log(typeof newLocation);
 console.log(mobileNumber);
 console.log(typeof mobileNumber);
-console.log(homeTown);
+//console.log(homeTown);
 console.log(typeof homeTown);
 
 
