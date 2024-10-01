@@ -32,7 +32,7 @@ console.log(typeof mobileNumber);
 //console.log(homeTown);
 console.log(typeof homeTown); */
 
-let newNumber = 258
+let newNumber = "258abc"
 console.log(typeof newNumber);
 
 
