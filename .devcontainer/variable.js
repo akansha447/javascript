@@ -36,6 +36,7 @@ console.log(typeof homeTown); */
 // DATA TYPE Convertion
 
 let newNumber = 258
+console.log(newNumber);
 console.log(typeof newNumber);
 
 //et valueInNumber = Number(newNumber);
