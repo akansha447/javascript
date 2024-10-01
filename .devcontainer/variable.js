@@ -15,13 +15,13 @@ console.log(employeeEmail);*/
 let newName = "akansha gaur";
 let newLocation = "Delhi";
 let mobileNumber = 8218051824
-const homeTown = 
+const homeTown = 0
 
 //console.log([newName,newLocation,mobileNumber,homeTown]);
-console.log( newName);
-console.log( typeof newName);
-console.log(newLocation);
-console.log(typeof newLocation);
+//console.log( newName);
+//console.log( typeof newName);
+//console.log(newLocation);
+//console.log(typeof newLocation);
 console.log(mobileNumber);
 console.log(typeof mobileNumber);
 console.log(homeTown);
