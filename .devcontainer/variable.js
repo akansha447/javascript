@@ -32,12 +32,15 @@ console.log(typeof mobileNumber);
 //console.log(homeTown);
 console.log(typeof homeTown); */
 
-let newNumber = "258abc"
-//console.log(typeof newNumber);
 
-let valueInNumber = Number(newNumber);
+// DATA TYPE Convertion
+
+let newNumber = 258
+console.log(typeof newNumber);
+
+//et valueInNumber = Number(newNumber);
 //console.log(typeof valueInNumber);
-console.log(valueInNumber);
+//console.log(valueInNumber);
 
 
 
