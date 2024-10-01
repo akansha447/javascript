@@ -39,13 +39,13 @@ console.log(typeof homeTown); */
 console.log(newNumber);
 console.log(typeof newNumber); */
 
-let newNumber = "888abc"
+/*let newNumber = "888abc"
 console.log(newNumber);
-console.log(typeof newNumber);
+console.log(typeof newNumber); */
 
-
-//let valueInNumber = Number(newNumber);
-//console.log(typeof valueInNumber);
+let newNumber = "888abc"
+let valueInNumber = Number(newNumber);
+console.log(typeof valueInNumber);
 //console.log(valueInNumber);
 
 
