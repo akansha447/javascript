@@ -36,7 +36,9 @@ let newNumber = "258abc"
 //console.log(typeof newNumber);
 
 let valueInNumber = Number(newNumber);
-console.log(typeof valueInNumber);
+//console.log(typeof valueInNumber);
+console.log(valueInNumber);
+
 
 
 
