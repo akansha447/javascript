@@ -46,7 +46,7 @@ console.log(typeof newNumber); */
 let newNumber = "888abc"
 let valueInNumber = Number(newNumber);
 console.log(typeof valueInNumber);
-//console.log(valueInNumber);
+console.log(valueInNumber);
 
 
 
