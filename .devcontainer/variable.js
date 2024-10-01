@@ -35,11 +35,16 @@ console.log(typeof homeTown); */
 
 // DATA TYPE Convertion
 
-let newNumber = 258
+/* let newNumber = 258
+console.log(newNumber);
+console.log(typeof newNumber); */
+
+let newNumber = "888abc"
 console.log(newNumber);
 console.log(typeof newNumber);
 
-//et valueInNumber = Number(newNumber);
+
+//let valueInNumber = Number(newNumber);
 //console.log(typeof valueInNumber);
 //console.log(valueInNumber);
 
