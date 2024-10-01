@@ -15,7 +15,7 @@ console.log(employeeEmail);*/
 let newName = "akansha gaur";
 let newLocation = "Delhi";
 let mobileNumber = 8218051824
-const homeTown = null 
+const homeTown = 
 
 //console.log([newName,newLocation,mobileNumber,homeTown]);
 //console.log( newName);
