@@ -16,3 +16,5 @@ let newName = "akansha gaur";
 let newLocation = "Delhi";
 let mobileNumber = 8218051824
 const homeTown = "Bareilly"
+
+console.log([newName,newLocation,mobileNumber,homeTown]);
