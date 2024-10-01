@@ -17,4 +17,11 @@ let newLocation = "Delhi";
 let mobileNumber = 8218051824
 const homeTown = "Bareilly"
 
-console.log([newName,newLocation,mobileNumber,homeTown]);
+//console.log([newName,newLocation,mobileNumber,homeTown]);
+console.log(newName);
+console.log(newLocation);
+console.log(mobileNumber);
+console.log(homeTown);
+
+
+
