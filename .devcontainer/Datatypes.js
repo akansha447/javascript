@@ -40,7 +40,7 @@ console.log("2"===2);
 
 const name = Symbol('akansha') 
 const name1 = Symbol('gaur')
-console.log(name===name1);
+console.log(name==name1);
 
 
 
