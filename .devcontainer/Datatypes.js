@@ -31,4 +31,4 @@ console.log(typeof stringNumber); */
 
 // Comparison
 
-console.log(2===2);
+console.log("2"===2);
