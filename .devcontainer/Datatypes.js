@@ -36,11 +36,29 @@ console.log("2"===2);
 
 // Non-Primitive data types (symbol,bigInt,Function)
 
-// SYMBOL=======
+// SYMBOL=======takes unique value 
 
-const name = Symbol('akansha') 
+/* const name = Symbol('akansha') 
 const name1 = Symbol('akansha')
-console.log(name==name1);
+console.log(name==name1); */
+
+// Functions 
+
+const hero = ["saktimaan","nagaraaj","doga"];
+let myObj = {
+     score : "akansha", 
+     age : 20,}
+const myFunction = Function()
+{
+    console.log("Hello World");
+}
+console.log(typeof Function);
+
+
+
+    
+
+
 
 
 
