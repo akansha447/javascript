@@ -53,8 +53,8 @@ console.log(valueInNumber);
 let score = true
 console.log(score);
 
-let name = akansha
-console.log(name);
+let scor = akansha
+console.log(scor);
 
 
 
