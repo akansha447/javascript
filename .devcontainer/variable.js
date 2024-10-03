@@ -56,7 +56,7 @@ console.log(score);
 let name = "akansha"
 console.log(name); */
 
-let data = "99"
+let data = 99
 console.log(data);
 console.log(typeof data);
 
