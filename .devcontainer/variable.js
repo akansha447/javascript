@@ -48,6 +48,8 @@ let valueInNumber = Number(newNumber);
 console.log(typeof valueInNumber);
 console.log(valueInNumber);
 
+let score = true
+console.log(score);
 
 
 
