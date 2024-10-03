@@ -48,8 +48,14 @@ let valueInNumber = Number(newNumber);
 console.log(typeof valueInNumber);
 console.log(valueInNumber);
 
+// boolean data type
+
 let score = true
 console.log(score);
+
+let name = akansha
+console.log(name);
+
 
 
 
