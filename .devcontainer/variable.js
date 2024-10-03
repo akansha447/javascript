@@ -50,11 +50,17 @@ console.log(valueInNumber);
 
 // boolean data type
 
-let score = true
+/*let score = true
 console.log(score);
 
 let name = "akansha"
-console.log(name);
+console.log(name); */
+
+let data = "99"
+console.log(data);
+
+
+
 
 
 
