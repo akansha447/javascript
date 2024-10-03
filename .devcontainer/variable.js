@@ -58,7 +58,7 @@ console.log(name); */
 
 let data = 99
 console.log(data);
-let stringNumber = Number(data)
+let stringNumber = String(data)
 console.log(stringNumber);
 
 console.log(typeof stringNumber);
