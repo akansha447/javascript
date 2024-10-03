@@ -39,7 +39,7 @@ console.log("2"===2);
 // SYMBOL=======
 
 const name = Symbol('akansha') 
-const name1 = Symbol('gaur')
+const name1 = Symbol('akansha')
 console.log(name==name1);
 
 
