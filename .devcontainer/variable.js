@@ -56,12 +56,12 @@ console.log(score);
 let name = "akansha"
 console.log(name); */
 
-let data = "99"
+let data = 99
 console.log(data);
-let valueInNumber = Number(data)
-console.log(valueInNumber);
+let stringNumber = Number(data)
+console.log(stringNumber);
 
-console.log(typeof valueInNumber);
+console.log(typeof stringNumber);
 
 
 
