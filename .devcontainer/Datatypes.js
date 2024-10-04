@@ -32,7 +32,7 @@ console.log(typeof stringNumber); */
 // Comparison
 
 // Strick Check (===)
-console.log("2"===2);
+//console.log("2"===2);
 
 // Non-Primitive data types (symbol,bigInt,Function)
 
