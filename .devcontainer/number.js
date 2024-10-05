@@ -4,7 +4,7 @@ console.log(score);
 const xscore = new Number(500)
 console.log(xscore);
 
-console.log(xscore.toString());
+console.log(xscore.toString(xscore));
 console.log(typeof xscore);
 
 
