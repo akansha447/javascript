@@ -5,5 +5,7 @@ const xscore = new Number(500)
 console.log(xscore);
 
 console.log(xscore.toString());
+console.log(typeof xscore);
+
 
 
