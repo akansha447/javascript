@@ -7,9 +7,9 @@ console.log(xscore);
 console.log(xscore.toString().length);
 console.log(typeof xscore);
 
-console.log(xscore.toString().charAt);
+//console.log(xscore.toString().charAt);
 
-console.log(xscore.toString().charCodeAt);
+//console.log(xscore.toString().charCodeAt);
 
 
 
