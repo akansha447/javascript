@@ -9,6 +9,9 @@ console.log(typeof xscore);
 
 console.log(xscore.toString().charAt);
 
+console.log(xscore.toString().charCodeAt);
+
+
 
 
 
