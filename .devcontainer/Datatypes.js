@@ -47,7 +47,7 @@ console.log(name==name1); */
 const hero = ["saktimaan","nagaraaj","doga"];
 let myObj = {
      score : "akansha", 
-     age : 20,}
+     age : 20,}                                                                                                                                                                                                    
 const myFunction = Function()
 {
     console.log("Hello World");
