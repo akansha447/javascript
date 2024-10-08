@@ -44,16 +44,27 @@ console.log(name==name1); */
 
 // Functions 
 
-const hero = ["saktimaan","nagaraaj","doga"];
+/* const hero = ["saktimaan","nagaraaj","doga"];
 let myObj = {
      score : "akansha", 
      age : 20,}                                                                                                                                                                                                    
 const myFunction = Function()
 {
-    console.log("Hello World");
+    console.log("Hello World")                                                                                                                                                                                                                                                                                                                                                                                                                                                                     console.log("Hello World");
+}
+console.log(typeof Function); */
+
+const dataType = ["int","char","number"];
+let myObj = {
+    name : "akansha",
+    cast : "pandit",
+    city : "bareilly",
+    no : "123456"}
+const myFunction =Function()
+{
+    console.log("Hello world")
 }
 console.log(typeof Function);
-
 
 
     
