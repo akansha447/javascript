@@ -68,9 +68,9 @@ const myFunction =Function()
 }
 console.log(typeof dataType); */
 
-const id = Symbol("1232")
+/* const id = Symbol("1232")
 const anotherId = Symbol("1232")
-console.log (id == anotherId);
+console.log (id === anotherId); */
 
 
 
