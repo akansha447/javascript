@@ -62,7 +62,7 @@ let myObj = {
     no : "123456"}
 const myFunction =Function()
 {
-    console.log("Hello world")
+    console.log("Hello Miss Akansha Gaur")
 }
 console.log(typeof Function);
 
