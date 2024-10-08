@@ -56,7 +56,7 @@ console.log(typeof Function); */
 
 
 
-const dataType = ["int","char","number"];
+/*const dataType = ["int","char","number"];
 let myObj = {
     name : "akansha",
     cast : "pandit",
@@ -66,7 +66,11 @@ const myFunction =Function()
 {
     console.log(myObj)
 }
-console.log(typeof dataType);
+console.log(typeof dataType); */
+
+const id = Symbol("1232")
+const anotherId = Symbol("8765")
+console.log (id === anotherId);
 
 
 
