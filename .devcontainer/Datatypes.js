@@ -66,7 +66,7 @@ const myFunction =Function()
 {
     console.log(myObj)
 }
-console.log(typeof myObj);
+console.log(typeof dataType);
 
 
 
