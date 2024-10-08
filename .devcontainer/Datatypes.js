@@ -54,6 +54,8 @@ const myFunction = Function()
 }
 console.log(typeof Function); */
 
+
+
 const dataType = ["int","char","number"];
 let myObj = {
     name : "akansha",
@@ -62,9 +64,19 @@ let myObj = {
     no : "123456"}
 const myFunction =Function()
 {
-    console.log("Hello Miss Akansha Gaur")
+    console.log("myObj")
 }
 console.log(typeof Function);
+
+
+
+
+
+
+
+
+
+
 
 
     
