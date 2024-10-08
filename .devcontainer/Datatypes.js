@@ -64,9 +64,9 @@ let myObj = {
     no : "123456"}
 const myFunction =Function()
 {
-    console.log("myObj")
+    console.log(myObj)
 }
-console.log(typeof Function);
+console.log(typeof myObj);
 
 
 
