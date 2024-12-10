@@ -1,9 +1,13 @@
+// STACK (GIVE COPY OUTPUT)
+
 let myinstaaccount = "iamakansha"
 
 let anotheraccount = myinstaaccount
 anotheraccount = "akanshagaur"
 console.log(myinstaaccount); 
 console.log(anotheraccount);    
+
+//  HEAP(GIVE ORIGINAL VALUE)
 
 let userOne = {
     userName: "akanshagaur",
