@@ -6,5 +6,5 @@ const myGod =["radhe","ram"]
 myGod.push("Ravan")
 console.log(myGod);
 
-myArray.push(myGod)
+myArray.pop(myGod)
 console.log(myArray);
