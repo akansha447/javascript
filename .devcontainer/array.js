@@ -12,5 +12,5 @@ console.log(myGod);
 // myArray.push(myGod)
 // console.log(myArray);
 
-myArray.concat(myGod)
+const allArray = myArray.concat(myGod)
 console.log(myArray);
