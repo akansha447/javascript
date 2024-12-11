@@ -13,4 +13,4 @@ console.log(myGod);
 // console.log(myArray);
 
 const allArray = myArray.concat(myGod)
-console.log(myArray);
+console.log(allArray);
