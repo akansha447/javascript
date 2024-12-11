@@ -8,3 +8,6 @@ console.log(myGod);
 
 myArray.pop(myGod)
 console.log(myArray);
+
+myArray.push(myGod)
+console.log(myArray);
