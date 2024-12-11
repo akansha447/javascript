@@ -5,3 +5,4 @@ console.log(myArray);
 const myGod =["radhe","ram"]
 myGod.push("Ravan")
 console.log(myGod);
+const my_hero = myArray + concat[myGod]
