@@ -1,4 +1,4 @@
-const JsUser= {
+const JsUser = {
     name : "akansha gaur",
     age : 24,
     location: "Delhi",
@@ -9,5 +9,12 @@ console.log(JsUser.email);
 console.log(JsUser["eamil"]);
 
 //new example 
+
+const mySym = Symbol("key1")
+{
+    name : "akansha"
+    mySym : "mykey1"
+
+}
 
 
