@@ -7,3 +7,7 @@ const JsUser= {
 }
 console.log(JsUser.email);
 console.log(JsUser["eamil"]);
+
+//new example 
+
+
